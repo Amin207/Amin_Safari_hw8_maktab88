@@ -61,4 +61,5 @@ form.addEventListener("submit", (e) => {
       passwordAgainDiv.className = "form-control";
     }
   }
+  
 });
